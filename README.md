@@ -2,7 +2,7 @@
 
 Group project: team of 2
 
-I created a program that generates new and unique stories. But that's not all, it also generates new songs, essays, speeches, and even book reports. All that you, the user, needs to do is feed it some sample text, and then it will generate literature of the same genre. The story generator program is based on a Markov Model. It usually knows how to coherently string a few words together, but it won't keep track of things like context, grammer, or most punctuation.
+I created a program that generates new and unique stories. But that's not all, it also generates new songs, essays, speeches, and even book reports. All that you, the user, needs to do is feed it some sample text, and then it will generate literature of the same genre. The story generator program is based on a Markov Model. It usually knows how to coherently string a few words together, but it won't keep track of things like context, grammar, or most punctuation.
 
 "Markov Model" is named after a famous mathmatician. It can be used as a powerful tool for things like handwriting recognition, simple weather models, predicting the stock market, data compression, and much more. Quite simply, a Markov Model is a simulation that involves a random variable. The model is mostly concerned with its present environment and has only the faintest idea about what happened in the past.
 
